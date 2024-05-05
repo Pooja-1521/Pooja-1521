@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm POOJA MUTHUKRISHNAN</h1>
-<h3 align="center">Cloud Engineer</h3>
+<h3 align="center">CLOUD ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-1521&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-1521" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pooja-1521" alt="pooja-1521" /></a> </p>
 
-- I’m an electronics engineer **who’s really interested in cloud computing.Right now, I’m learning how to be a cloud engineer so I can use my skills in this exciting area.**
+- I’m a fresher **who’s really interested in cloud computing. Right now, I’m learning how to be a cloud engineer so I can use my skills in this exciting area.**
 
 - Currently learning about **common services and DevOps tools like Docker, Jenkins, Kubernetes, and Terraform.**
 
